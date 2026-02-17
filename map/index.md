@@ -21,7 +21,7 @@ The Bike Stress Map is our first project, rating every street in Boston, Cambrid
 
 <div class="full-width-frame-container">
 	<!-- Embedded stress map -->
-	<iframe src="https://sckilcoyne.github.io/Website/" height="800px" allowfullscreen allow="fullscreen"></iframe>
+	<iframe src="https://bostoncyclistsunion.github.io/LabsWebsiteMap#inx=false&bpk=false&blb=false&lts=true&lts1=true&lts2=true&lts3=true&lts4=true" height="800px" allowfullscreen allow="fullscreen"></iframe>
 </div>
 
 
