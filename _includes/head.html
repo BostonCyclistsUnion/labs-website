@@ -10,11 +10,30 @@
 		<link rel="preconnect" href="https://fonts.googleapis.com" />
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/ >
 		<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap" rel="stylesheet" />
+		<script src="{{ site.baseurl }}/assets/components/navPanel.js"></script>
+
 	</head>
+		
 	<body>
 		<header id="header-stripe">
-			<a href="{{ site.baseurl }}/">
-				<img src="{{ site.baseurl }}/assets/images/labs_wordmark.svg" alt="BCU Labs." class="logo" />
+			<a href="{{ site.baseurl }}/" class="logo-link">
+				<img src="{{ site.baseurl }}/assets/images/labs_logo_inkscape.svg" alt="BCU Labs" title="BCU Labs" class="logo"/>
 			</a>
-			{% if page.title and !page.title.empty? %}<h1>{{ page.title }}</h1>{% endif %}
+			{% if page.title %}<h1>{{ page.title }}</h1>{% endif %}
+			<div id="navPanel" class="sidepanel">
+				<a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+				<a href="{{ site.baseurl }}/">Home</a>
+				<!-- <a href="{{ site.baseurl }}/map">Map</a> -->
+				<a href="{{ site.baseurl }}/projecttracker">Project Tracker</a>
+				<a href="{{ site.baseurl }}/stressmap">Stress Map</a>
+				<!-- <a href="{{ site.baseurl }}/intersections">Intersections</a> -->
+				<!-- <a href="{{ site.baseurl }}/bikeparking">Bike Parking</a> -->
+				<!-- <a href="{{ site.baseurl }}/design">Street Design 101</a> -->
+			</div>
+			<button class="openbtn" onclick=openNav()>&#9776;</button> 
 		</header>
+		<!-- <script type="module" src="{{ site.baseurl }}/assets/components/head.js"></script> -->
+	
+		<a href="{{ site.baseurl }}/">
+			<img src="{{ site.baseurl }}/assets/images/labs_wordmark.svg" alt="BCU Labs" title="BCU Labs" class="wordmark" />
+		</a>
