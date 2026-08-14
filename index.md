@@ -31,10 +31,10 @@ BCU Labs seeks to draw insight and tell stories from the wealth of biking data i
 		<big>Crash Map</big>
 		<small>See where crashes have been reported</small>
 	</a>
-	<!--<a class="link-button" href="intersections/">
+	<a class="link-button" href="intersections/">
 		<big>Forgotten Intersections</big>
-		<small>Where good bike lanes hit dangerous intersections</small>
-	</a>-->
+		<small>Where are intersections designed for bikes?</small>
+	</a>
 	<a class="link-button" href="bikeparking/">
 		<big>Bike Parking</big>
 		<small>Where can you park your bike?</small>
