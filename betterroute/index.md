@@ -6,5 +6,5 @@ title: Better Bike Routes
 
 <div class="full-width-frame-container">
 	<!-- Embedded map -->
-	<iframe src="https://bostonbikelanes.vercel.app/" height="800px" allowfullscreen allow="fullscreen"></iframe>
+	<iframe src="https://bostonbikelanes.vercel.app/" allowfullscreen allow="fullscreen"></iframe>
 </div>

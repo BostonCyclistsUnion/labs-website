@@ -253,7 +253,7 @@ iframe {
 	
 	iframe {
 		width: calc(100vw - (4 * var(--section-padding)));
-		max-height: calc(100vh - var(--header-max-height));
+		height: calc(95vh - var(--header-max-height));
 		flex-shrink: 0;
 	}
 }
