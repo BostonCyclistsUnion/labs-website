@@ -9,7 +9,7 @@ Below the map we have instuctions on [how to request new bike racks](#how-to-req
 
 <div class="full-width-frame-container">
 	<!-- Embedded stress map -->
-	<iframe src="https://bostoncyclistsunion.github.io/LabsWebsiteMap#inx=hidden&bpk=true&blb=false&lts=hidden" height="800px" allowfullscreen allow="fullscreen"></iframe>
+	<iframe src="https://bostoncyclistsunion.github.io/LabsWebsiteMap#inx=hidden&bpk=true&blb=false&lts=hidden" allowfullscreen allow="fullscreen"></iframe>
 </div>
 
 
