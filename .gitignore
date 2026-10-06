@@ -1,2 +1,6 @@
 _site
 node_modules
+
+# code harnesses
+AGENTS.md
+CLAUDE.md
