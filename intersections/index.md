@@ -31,7 +31,7 @@ title: Forgotten Intersections
 	</div>
 	
 	<!-- Custom map embed -->
-	<iframe columns="3" src="https://www.google.com/maps/d/embed?mid=1UtoQv212WBveh6pdjLJz4oUUPyCvw-g&ehbc=2E312F&noprof=1" style="height: 30rem; /* 480px default */"></iframe>
+	<iframe title="Map of forgotten intersections" loading="lazy" columns="3" src="https://www.google.com/maps/d/embed?mid=1UtoQv212WBveh6pdjLJz4oUUPyCvw-g&ehbc=2E312F&noprof=1" style="height: 30rem; /* 480px default */"></iframe>
 	
 </section>
 <section class="multi-column-row">

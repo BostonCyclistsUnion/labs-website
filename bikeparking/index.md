@@ -5,11 +5,11 @@ title: Bike Parking
 
 There are numerous obstacles that prevent people from choosing to ride a bike for a trip. Many of these can be boiled down to a feeling of safety. You can see our analysis on the comfort of biking on streets on our [Stress Map](https://labs.bostoncyclistsunion.org/stressmap/). But another major obstacle is bike parking. If one doesn't feel that they can safely park their bike at their destination, they won't choose to bike. As you can see in the map below, bike parking is not evenly or thoroughly distributed throughout Boston. This means that there are countless people that aren't able to bike when they otherwise would choose to. Improving this situation is something that each city is more than capable to do, as installing bike racks is simple, cheap, and quick. The Boston Cyclists Union has been advocating for improved bike parking for many years now, included in our [2021 report](https://bostoncyclistsunion.org/wp-content/uploads/2022/01/bcu-parking-study-final.pdf).
 
-Below the map we have instuctions on [how to request new bike racks](#how-to-request-new-bike-parking) and [how to add existing bike racks to this map](#how-to-add-existing-bike-parking-to-this-map). 
+Below the map we have instructions on [how to request new bike racks](#how-to-request-new-bike-parking) and [how to add existing bike racks to this map](#how-to-add-existing-bike-parking-to-this-map). 
 
 <div class="full-width-frame-container">
 	<!-- Embedded stress map -->
-	<iframe src="https://bostoncyclistsunion.github.io/LabsWebsiteMap#inx=hidden&bpk=true&blb=false&lts=hidden" height="800px" allowfullscreen allow="fullscreen"></iframe>
+	<iframe title="Bike parking map" loading="lazy" src="https://bostoncyclistsunion.github.io/LabsWebsiteMap#inx=hidden&bpk=true&blb=false&lts=hidden" height="800px" allowfullscreen allow="fullscreen"></iframe>
 </div>
 
 
@@ -59,7 +59,7 @@ We have found no published way to request new bike parking in areas maintained b
 
 Arlington Center is designated as a Parking Benefit District, which allocates the revenue from parking meters to improvements of the district. Arlington specifically includes installing new bike racks as a suggested use of this money.
 
-When we reached out to town staff, they recommened trying to request new bike racks using their [roadway safety form](https://www.arlingtonma.gov/town-governance/boards-and-committees/select-board/roadway-safety-request-form) and contacting the [Bicycle Advisory Committee](https://www.arlingtonma.gov/town-governance/boards-and-committees/bicycle-advisory-committee-abac).
+When we reached out to town staff, they recommended trying to request new bike racks using their [roadway safety form](https://www.arlingtonma.gov/town-governance/boards-and-committees/select-board/roadway-safety-request-form) and contacting the [Bicycle Advisory Committee](https://www.arlingtonma.gov/town-governance/boards-and-committees/bicycle-advisory-committee-abac).
 
 
 # How to add existing bike parking to this map

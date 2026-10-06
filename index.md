@@ -39,6 +39,10 @@ BCU Labs seeks to draw insight and tell stories from the wealth of biking data i
 		<big>Bike Parking</big>
 		<small>Where can you park your bike?</small>
 	</a>
+	<a class="link-button" href="suggestabikelane/">
+		<big>Suggest A Bike Lane</big>
+		<small>Tell us where Boston needs bike lanes</small>
+	</a>
 	<a class="link-button" href="map/">
 		<big>BCU Labs Projects Map</big>
 		<small>Explore multiple of our projects at the same time</small>
