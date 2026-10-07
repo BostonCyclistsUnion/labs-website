@@ -6,7 +6,7 @@ title: Better Bike Routes
 
 <div class="full-width-frame-container">
 	<!-- Embedded map -->
-	<iframe src="https://bostonbikelanes.vercel.app/" allowfullscreen allow="fullscreen"></iframe>
+	<iframe  title="Better Route Survey" loading="lazy" src="https://bostonbikelanes.vercel.app/" allowfullscreen allow="fullscreen"></iframe>
 </div>
 
 # How is this going to be used?
