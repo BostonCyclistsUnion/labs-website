@@ -8,7 +8,7 @@ Visualize crash patterns in five regions across the state. Zoom out for a broad 
 
 <div class="full-width-frame-container">
 	<!-- Embedded stress map -->
-	<iframe title="Massachusetts Crash Map" loading="lazy" src="https://picturedigits.github.io/mass-crash-map" height="800px" allowfullscreen allow="fullscreen"></iframe>
+	<iframe title="Massachusetts Crash Map" loading="lazy" src="https://picturedigits.github.io/mass-crash-map" allowfullscreen allow="fullscreen"></iframe>
 </div>
 
 ## How We Created the Massachusetts Crash Map
