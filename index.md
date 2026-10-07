@@ -15,7 +15,11 @@ BCU Labs seeks to draw insight and tell stories from the wealth of biking data i
 ## Our projects and writing
 
 <div class="featured-links">
-	<a class="link-button" href="projecttracker/">
+	<a class="link-button" href="BetterRoutes/">
+		<big>Suggest Bike Routes</big>
+		<small>Tell us where you want to bike in Boston</small>
+	</a>
+	<a class="link-button" href="ProjectTracker/">
 		<big>Project Tracker</big>
 		<small>Track Boston area micromobility projects</small>
 	</a>
@@ -35,13 +39,9 @@ BCU Labs seeks to draw insight and tell stories from the wealth of biking data i
 		<big>Forgotten Intersections</big>
 		<small>Where are intersections designed for bikes?</small>
 	</a>
-	<a class="link-button" href="bikeparking/">
+	<a class="link-button" href="BikeParking/">
 		<big>Bike Parking</big>
 		<small>Where can you park your bike?</small>
-	</a>
-	<a class="link-button" href="suggestabikelane/">
-		<big>Suggest A Bike Lane</big>
-		<small>Tell us where Boston needs bike lanes</small>
 	</a>
 	<a class="link-button" href="map/">
 		<big>BCU Labs Projects Map</big>
