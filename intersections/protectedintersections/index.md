@@ -170,9 +170,9 @@ title: Protected Intersections? - Forgotten Intersections
 	
 	<div class="multi-column-row">
 		
-		<iframe columns="1" src="https://player.vimeo.com/video/86721046" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
+		<iframe title="Protected intersection explainer video (Vimeo)" loading="lazy" columns="1" src="https://player.vimeo.com/video/86721046" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
 		
-		<iframe columns="1" src="https://www.youtube.com/embed/FlApbxLz6pA" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+		<iframe title="Protected intersection explainer video (YouTube)" loading="lazy" columns="1" src="https://www.youtube.com/embed/FlApbxLz6pA" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 		
 	</div>
 	

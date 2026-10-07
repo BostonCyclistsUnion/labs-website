@@ -9,7 +9,7 @@ We have been working on many projects which take data and show it on a map. You 
 
 <div class="full-width-frame-container">
 	<!-- Embedded stress map -->
-	<iframe src="https://bostoncyclistsunion.github.io/LabsWebsiteMap#inx=hidden&bpk=true&blb=true&lts=true&lts1=true&lts2=true&lts3=true&lts4=true" allowfullscreen allow="fullscreen"></iframe>
+	<iframe title="BCU Labs Projects Map" loading="lazy" src="https://bostoncyclistsunion.github.io/LabsWebsiteMap#inx=hidden&bpk=true&blb=true&lts=true&lts1=true&lts2=true&lts3=true&lts4=true" allowfullscreen allow="fullscreen"></iframe>
 </div>
 
 

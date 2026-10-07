@@ -4,7 +4,7 @@ title: What is OpenStreetMap?
 
 <h1>What is OpenStreetMap?</h1>
 
-[OpenStreetMap (OSM)](https://www.OpenStreetMap.org) is the data source for the calculations used to rate each street segment on our [Stress Map](../map/).  OSM is an incredible resource that, much like Wikipedia, is volunteer-edited to add details and keep the map current to changes (e.g. new bike lanes being installed).  By editing the map directly, you will make the Stress Map more accurate, and you will improve the baseline data used in most of your favorite bike and navigation apps, including [Bluebikes](https://account.bluebikes.com/map), [Strava](https://www.strava.com), [Ride With GPS](https://RideWithGPS.com), [GeoVelo](https://GeoVelo.app/en/route/?bike-type=own&c=-71.057045%2C42.340951&e-bike=false&z=11.07), [Pointz](https://www.BikePointz.com/download), and many more.
+[OpenStreetMap (OSM)](https://www.OpenStreetMap.org) is the data source for the calculations used to rate each street segment on our [Stress Map](../stressmap/).  OSM is an incredible resource that, much like Wikipedia, is volunteer-edited to add details and keep the map current to changes (e.g. new bike lanes being installed).  By editing the map directly, you will make the Stress Map more accurate, and you will improve the baseline data used in most of your favorite bike and navigation apps, including [Bluebikes](https://account.bluebikes.com/map), [Strava](https://www.strava.com), [Ride With GPS](https://RideWithGPS.com), [GeoVelo](https://GeoVelo.app/en/route/?bike-type=own&c=-71.057045%2C42.340951&e-bike=false&z=11.07), [Pointz](https://www.BikePointz.com/download), and many more.
 
 
 ## Want to help improve our map?
@@ -14,7 +14,7 @@ If you are interested in the type of projects we are working on, [join us at BCU
 If you see a data accuracy issue and want the BCU Labs to investigate and fix it, you can use [this form](https://forms.gle/ytyKV7ZrnzYZToCi9) to let us know.
 
 
-## Recmmended map editing tools
+## Recommended map editing tools
 
 These are some of the tools that the BCU Labs team has experience with to edit OpenStreetMap.  Each of these tools has different strengths for different types of editing and you may find value using multiple of them.
 
